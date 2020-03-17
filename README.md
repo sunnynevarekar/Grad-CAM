@@ -1,4 +1,5 @@
-Grad-CAM  
+<b>Grad-CAM</b>
+
 This repo implements Grad-CAM (by Selvaraju, Ramprasaath R. et al. “Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization.” ) in tensoflow-2.  
 Grad CAM stands for gradient weighted class activation map, a way to visualize what the convloution neural network is looking at in input image
 to arrive at a perticular class prediction. 
